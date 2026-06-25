@@ -1,0 +1,183 @@
+[
+    {
+        "id": "495",
+        "title": "RE8604FV",
+        "type": "sku",
+        "product_name": "RE04FV",
+        "category_name": "Interactive flat Panel",
+        "url": "/product/benq-board-re8604fv-essential-series",
+        "priority": "1"
+    },
+    {
+        "id": "527",
+        "title": " LH86WAFPLGCXXL",
+        "type": "sku",
+        "product_name": "WAF-P",
+        "category_name": "Interactive flat Panel",
+        "url": "/product/86-inch-interactive-display-waf-p-series",
+        "priority": "1"
+    },
+    {
+        "id": "566",
+        "title": "PSE0401",
+        "type": "sku",
+        "product_name": "Speakerphones & Microphones",
+        "category_name": "Conference Room Microphones & Speakers",
+        "url": "/product/philips-wireless-bluetooth-usb-portable-speakerphone-pse0401",
+        "priority": "1"
+    },
+    {
+        "id": "598",
+        "title": "YEA-MBA50-ZR",
+        "type": "sku",
+        "product_name": "Zoom Rooms System",
+        "category_name": "PTZ & Conference Room Cameras",
+        "url": "/product/meetingbar-a50-zoom-rooms-appliance",
+        "priority": "1"
+    },
+    {
+        "id": "10",
+        "title": "LH98QBREBGCXUE-98\"",
+        "type": "sku",
+        "product_name": "QBR",
+        "category_name": "Commercial Digital Signage",
+        "url": "/product/lh98qbrebgcxue-98",
+        "priority": "1"
+    },
+    {
+        "id": "24",
+        "title": " WM55R-55\"",
+        "type": "sku",
+        "product_name": "Flip 2.0",
+        "category_name": "Interactive flat Panel",
+        "url": "/product/55-wmr",
+        "priority": "1"
+    },
+    {
+        "id": "51",
+        "title": "P6.6  OD",
+        "type": "sku",
+        "product_name": "Outdoor series",
+        "category_name": "Active LED",
+        "url": "/product/p66-od",
+        "priority": "1"
+    },
+    {
+        "id": "137",
+        "title": "SS-98ALODP10",
+        "type": "sku",
+        "product_name": "Outdoor P 10 LED",
+        "category_name": "Active LED",
+        "url": "/product/98",
+        "priority": "1"
+    },
+    {
+        "id": "201",
+        "title": "SS-10X5ALODP3",
+        "type": "sku",
+        "product_name": "Outdoor P3LED",
+        "category_name": "Active LED",
+        "url": "/product/10x5-sgft-outdoor-p3led",
+        "priority": "1"
+    },
+    {
+        "id": "239",
+        "title": "SS-20X20ALODP5",
+        "type": "sku",
+        "product_name": "Outdoor P5 LED",
+        "category_name": "Active LED",
+        "url": "/product/20x20-sgft-outdoor-p5led",
+        "priority": "1"
+    },
+    {
+        "id": "272",
+        "title": "SS-75ALINP0.8",
+        "type": "sku",
+        "product_name": "Indoor P0.8 LED",
+        "category_name": "Active LED",
+        "url": "/product/75-indoor-p08led",
+        "priority": "1"
+    },
+    {
+        "id": "304",
+        "title": "SS-75ALINP1.5",
+        "type": "sku",
+        "product_name": "Indoor P1.5 LED",
+        "category_name": "Active LED",
+        "url": "/product/75indoor-p15led",
+        "priority": "1"
+    },
+    {
+        "id": "337",
+        "title": "SS-75ALINP2.5",
+        "type": "sku",
+        "product_name": "Indoor P2.5 LED",
+        "category_name": "Active LED",
+        "url": "/product/75indoor-p25led",
+        "priority": "1"
+    },
+    {
+        "id": "378",
+        "title": "P2.5 mm Outdoor",
+        "type": "sku",
+        "product_name": "Outdoor Displays",
+        "category_name": "Active LED",
+        "url": "/product/p25mm-outdoor",
+        "priority": "1"
+    },
+    {
+        "id": "415",
+        "title": "RP8604",
+        "type": "sku",
+        "product_name": "RP04",
+        "category_name": "Interactive flat Panel",
+        "url": "/product/rp8604",
+        "priority": "1"
+    },
+    {
+        "id": "460",
+        "title": "EX480UZ",
+        "type": "sku",
+        "product_name": "Curved Gaming Monitor",
+        "category_name": "Computer Monitors",
+        "url": "/product/ex480uz",
+        "priority": "1"
+    },
+    {
+        "id": "17",
+        "title": "LH98QMREBGCXUE-98\"",
+        "type": "sku",
+        "product_name": "QMR",
+        "category_name": "Commercial Digital Signage",
+        "url": "/product/98-qmr",
+        "priority": "1"
+    },
+    {
+        "id": "409",
+        "title": "75BDL4650D",
+        "type": "sku",
+        "product_name": "D-Line series",
+        "category_name": "Commercial Digital Signage",
+        "url": "/product/75bdl4650d",
+        "priority": "1"
+    },
+    {
+        "id": "44",
+        "title": "HG55AE690DKXZN-55\"",
+        "type": "sku",
+        "product_name": "HG series",
+        "category_name": "Commercial TVs",
+        "url": "/product/55-hg",
+        "priority": "1"
+    },
+    {
+        "id": "124",
+        "title": "DV75B14-75\"",
+        "type": "sku",
+        "product_name": "Blaze",
+        "category_name": "Interactive flat Panel",
+        "url": "/product/dv75b14-75",
+        "priority": "1"
+    }
+]
+

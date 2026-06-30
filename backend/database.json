@@ -1,183 +1,182 @@
 [
-    {
-        "id": "495",
-        "title": "RE8604FV",
-        "type": "sku",
-        "product_name": "RE04FV",
-        "category_name": "Interactive flat Panel",
-        "url": "/product/benq-board-re8604fv-essential-series",
-        "priority": "1"
-    },
-    {
-        "id": "527",
-        "title": " LH86WAFPLGCXXL",
-        "type": "sku",
-        "product_name": "WAF-P",
-        "category_name": "Interactive flat Panel",
-        "url": "/product/86-inch-interactive-display-waf-p-series",
-        "priority": "1"
-    },
-    {
-        "id": "566",
-        "title": "PSE0401",
-        "type": "sku",
-        "product_name": "Speakerphones & Microphones",
-        "category_name": "Conference Room Microphones & Speakers",
-        "url": "/product/philips-wireless-bluetooth-usb-portable-speakerphone-pse0401",
-        "priority": "1"
-    },
-    {
-        "id": "598",
-        "title": "YEA-MBA50-ZR",
-        "type": "sku",
-        "product_name": "Zoom Rooms System",
-        "category_name": "PTZ & Conference Room Cameras",
-        "url": "/product/meetingbar-a50-zoom-rooms-appliance",
-        "priority": "1"
-    },
-    {
-        "id": "10",
-        "title": "LH98QBREBGCXUE-98\"",
-        "type": "sku",
-        "product_name": "QBR",
-        "category_name": "Commercial Digital Signage",
-        "url": "/product/lh98qbrebgcxue-98",
-        "priority": "1"
-    },
-    {
-        "id": "24",
-        "title": " WM55R-55\"",
-        "type": "sku",
-        "product_name": "Flip 2.0",
-        "category_name": "Interactive flat Panel",
-        "url": "/product/55-wmr",
-        "priority": "1"
-    },
-    {
-        "id": "51",
-        "title": "P6.6  OD",
-        "type": "sku",
-        "product_name": "Outdoor series",
-        "category_name": "Active LED",
-        "url": "/product/p66-od",
-        "priority": "1"
-    },
-    {
-        "id": "137",
-        "title": "SS-98ALODP10",
-        "type": "sku",
-        "product_name": "Outdoor P 10 LED",
-        "category_name": "Active LED",
-        "url": "/product/98",
-        "priority": "1"
-    },
-    {
-        "id": "201",
-        "title": "SS-10X5ALODP3",
-        "type": "sku",
-        "product_name": "Outdoor P3LED",
-        "category_name": "Active LED",
-        "url": "/product/10x5-sgft-outdoor-p3led",
-        "priority": "1"
-    },
-    {
-        "id": "239",
-        "title": "SS-20X20ALODP5",
-        "type": "sku",
-        "product_name": "Outdoor P5 LED",
-        "category_name": "Active LED",
-        "url": "/product/20x20-sgft-outdoor-p5led",
-        "priority": "1"
-    },
-    {
-        "id": "272",
-        "title": "SS-75ALINP0.8",
-        "type": "sku",
-        "product_name": "Indoor P0.8 LED",
-        "category_name": "Active LED",
-        "url": "/product/75-indoor-p08led",
-        "priority": "1"
-    },
-    {
-        "id": "304",
-        "title": "SS-75ALINP1.5",
-        "type": "sku",
-        "product_name": "Indoor P1.5 LED",
-        "category_name": "Active LED",
-        "url": "/product/75indoor-p15led",
-        "priority": "1"
-    },
-    {
-        "id": "337",
-        "title": "SS-75ALINP2.5",
-        "type": "sku",
-        "product_name": "Indoor P2.5 LED",
-        "category_name": "Active LED",
-        "url": "/product/75indoor-p25led",
-        "priority": "1"
-    },
-    {
-        "id": "378",
-        "title": "P2.5 mm Outdoor",
-        "type": "sku",
-        "product_name": "Outdoor Displays",
-        "category_name": "Active LED",
-        "url": "/product/p25mm-outdoor",
-        "priority": "1"
-    },
-    {
-        "id": "415",
-        "title": "RP8604",
-        "type": "sku",
-        "product_name": "RP04",
-        "category_name": "Interactive flat Panel",
-        "url": "/product/rp8604",
-        "priority": "1"
-    },
-    {
-        "id": "460",
-        "title": "EX480UZ",
-        "type": "sku",
-        "product_name": "Curved Gaming Monitor",
-        "category_name": "Computer Monitors",
-        "url": "/product/ex480uz",
-        "priority": "1"
-    },
-    {
-        "id": "17",
-        "title": "LH98QMREBGCXUE-98\"",
-        "type": "sku",
-        "product_name": "QMR",
-        "category_name": "Commercial Digital Signage",
-        "url": "/product/98-qmr",
-        "priority": "1"
-    },
-    {
-        "id": "409",
-        "title": "75BDL4650D",
-        "type": "sku",
-        "product_name": "D-Line series",
-        "category_name": "Commercial Digital Signage",
-        "url": "/product/75bdl4650d",
-        "priority": "1"
-    },
-    {
-        "id": "44",
-        "title": "HG55AE690DKXZN-55\"",
-        "type": "sku",
-        "product_name": "HG series",
-        "category_name": "Commercial TVs",
-        "url": "/product/55-hg",
-        "priority": "1"
-    },
-    {
-        "id": "124",
-        "title": "DV75B14-75\"",
-        "type": "sku",
-        "product_name": "Blaze",
-        "category_name": "Interactive flat Panel",
-        "url": "/product/dv75b14-75",
-        "priority": "1"
-    }
+  {
+    "id": "101",
+    "title": "Hydra Glow Vitamin C Face Serum",
+    "type": "sku",
+    "product_name": "VC30 Serum",
+    "category_name": "Face Serums",
+    "url": "/beauty/hydra-glow-vitamin-c-face-serum-vc30",
+    "priority": "1"
+  },
+  {
+    "id": "102",
+    "title": "Matte Perfection Liquid Foundation",
+    "type": "sku",
+    "product_name": "MPF-24",
+    "category_name": "Foundation",
+    "url": "/beauty/matte-perfection-liquid-foundation-mpf24",
+    "priority": "1"
+  },
+  {
+    "id": "103",
+    "title": "Velvet Touch Compact Powder",
+    "type": "sku",
+    "product_name": "VTC-01",
+    "category_name": "Face Powder",
+    "url": "/beauty/velvet-touch-compact-powder-vtc01",
+    "priority": "1"
+  },
+  {
+    "id": "104",
+    "title": "Rose Petal Hydrating Toner",
+    "type": "sku",
+    "product_name": "RHT-200",
+    "category_name": "Toners",
+    "url": "/beauty/rose-petal-hydrating-toner-rht200",
+    "priority": "1"
+  },
+  {
+    "id": "105",
+    "title": "Deep Clean Charcoal Face Wash",
+    "type": "sku",
+    "product_name": "DCF-150",
+    "category_name": "Face Cleanser",
+    "url": "/beauty/deep-clean-charcoal-face-wash-dcf150",
+    "priority": "1"
+  },
+  {
+    "id": "106",
+    "title": "Silk Finish Lipstick - Ruby Red",
+    "type": "sku",
+    "product_name": "SFL-RR01",
+    "category_name": "Lipstick",
+    "url": "/beauty/silk-finish-lipstick-ruby-red",
+    "priority": "1"
+  },
+  {
+    "id": "107",
+    "title": "Ultra Volume Mascara",
+    "type": "sku",
+    "product_name": "UVM-Black",
+    "category_name": "Eye Makeup",
+    "url": "/beauty/ultra-volume-mascara-black",
+    "priority": "1"
+  },
+  {
+    "id": "108",
+    "title": "Precision Waterproof Eyeliner",
+    "type": "sku",
+    "product_name": "PWE-01",
+    "category_name": "Eye Makeup",
+    "url": "/beauty/precision-waterproof-eyeliner-pwe01",
+    "priority": "1"
+  },
+  {
+    "id": "109",
+    "title": "Natural Glow BB Cream",
+    "type": "sku",
+    "product_name": "NGBB-02",
+    "category_name": "BB & CC Cream",
+    "url": "/beauty/natural-glow-bb-cream-ngbb02",
+    "priority": "1"
+  },
+  {
+    "id": "110",
+    "title": "Aloe Vera Daily Moisturizer",
+    "type": "sku",
+    "product_name": "AVM-100",
+    "category_name": "Moisturizers",
+    "url": "/beauty/aloe-vera-daily-moisturizer-avm100",
+    "priority": "1"
+  },
+  {
+    "id": "111",
+    "title": "SPF 50+ Sun Protection Cream",
+    "type": "sku",
+    "product_name": "SPF50-Pro",
+    "category_name": "Sunscreen",
+    "url": "/beauty/spf50-sun-protection-cream",
+    "priority": "1"
+  },
+  {
+    "id": "112",
+    "title": "Overnight Repair Night Cream",
+    "type": "sku",
+    "product_name": "ORN-50",
+    "category_name": "Night Cream",
+    "url": "/beauty/overnight-repair-night-cream-orn50",
+    "priority": "1"
+  },
+  {
+    "id": "113",
+    "title": "Keratin Smooth Shampoo",
+    "type": "sku",
+    "product_name": "KSS-250",
+    "category_name": "Hair Care",
+    "url": "/beauty/keratin-smooth-shampoo-kss250",
+    "priority": "1"
+  },
+  {
+    "id": "114",
+    "title": "Argan Oil Nourishing Conditioner",
+    "type": "sku",
+    "product_name": "AONC-250",
+    "category_name": "Hair Care",
+    "url": "/beauty/argan-oil-nourishing-conditioner-aonc250",
+    "priority": "1"
+  },
+  {
+    "id": "115",
+    "title": "Coconut Repair Hair Mask",
+    "type": "sku",
+    "product_name": "CRHM-300",
+    "category_name": "Hair Treatments",
+    "url": "/beauty/coconut-repair-hair-mask-crhm300",
+    "priority": "1"
+  },
+  {
+    "id": "116",
+    "title": "Fresh Bloom Eau De Parfum",
+    "type": "sku",
+    "product_name": "FB-EDP100",
+    "category_name": "Perfumes",
+    "url": "/beauty/fresh-bloom-eau-de-parfum",
+    "priority": "1"
+  },
+  {
+    "id": "117",
+    "title": "Coffee Body Scrub",
+    "type": "sku",
+    "product_name": "CBS-200",
+    "category_name": "Body Care",
+    "url": "/beauty/coffee-body-scrub-cbs200",
+    "priority": "1"
+  },
+  {
+    "id": "118",
+    "title": "Shea Butter Body Lotion",
+    "type": "sku",
+    "product_name": "SBBL-400",
+    "category_name": "Body Care",
+    "url": "/beauty/shea-butter-body-lotion-sbbl400",
+    "priority": "1"
+  },
+  {
+    "id": "119",
+    "title": "French Pink Clay Face Mask",
+    "type": "sku",
+    "product_name": "FPCM-100",
+    "category_name": "Face Masks",
+    "url": "/beauty/french-pink-clay-face-mask-fpcm100",
+    "priority": "1"
+  },
+  {
+    "id": "120",
+    "title": "Hydrating Lip Balm",
+    "type": "sku",
+    "product_name": "HLB-Cherry",
+    "category_name": "Lip Care",
+    "url": "/beauty/hydrating-lip-balm-cherry",
+    "priority": "1"
+  }
 ]
-

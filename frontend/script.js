@@ -83,16 +83,26 @@ window.onload = function () {
         emailChip.className = "action-chip";
         emailChip.innerHTML = "✉️ Email Us";
         emailChip.onclick = function() {
-            messageInput.value = "How can I contact Elactree via email?";
-            handleSend();
+            window.open("https://mail.google.com/mail/?view=cm&fs=1&to=support@elactree.com", "_blank");
         };
 
         const phoneChip = document.createElement("button");
         phoneChip.className = "action-chip";
         phoneChip.innerHTML = "📞 Call Us";
         phoneChip.onclick = function() {
-            messageInput.value = "How can I contact Elactree via phone?";
-            handleSend();
+            navigator.clipboard.writeText("+91-8851-593329").then(() => {
+                const originalText = phoneChip.innerHTML;
+                phoneChip.innerHTML = "Copied: +91-8851-593329!";
+                phoneChip.style.borderColor = "#10B981";
+                phoneChip.style.color = "#10B981";
+                setTimeout(() => {
+                    phoneChip.innerHTML = originalText;
+                    phoneChip.style.borderColor = "";
+                    phoneChip.style.color = "";
+                }, 3000);
+            }).catch(err => {
+                phoneChip.innerHTML = "📞 +91-8851-593329";
+            });
         };
 
         quickActions.appendChild(emailChip);

@@ -242,18 +242,19 @@ body {
 
 /* Product Link Decoration */
 .product-link {
-    color: #4F46E5;
+    color: #8B5CF6; /* Vibrant Lavender */
     text-decoration: none;
     font-weight: 600;
-    border-bottom: 1.5px solid #C7D2FE;
+    border-bottom: 1.5px solid #C084FC; /* Lavender underline */
     transition: all 0.2s ease;
 }
 
 .product-link:hover {
-    color: #312E81;
-    border-bottom-color: #4F46E5;
-    background-color: #EEF2FF;
-    border-radius: 2px;
+    color: #6D28D9; /* Deep violet */
+    border-bottom-color: #7C3AED;
+    background-color: #F5F3FF;
+    border-radius: 4px;
+    padding: 0 2px;
 }
 
 /* --- Quick-Action Chips Container --- */
